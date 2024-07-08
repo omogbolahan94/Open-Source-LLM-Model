@@ -10,4 +10,5 @@ GPU is reuqired to build an LLM model and we can get access to them through:
 # ABOUT 
 Exploring different open source LLM models
 * Google flan-t5 model from huggingface.
-* Microsoft phi-3
+* Microsoft phi-3. Read about it [here](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct)
+* 
