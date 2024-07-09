@@ -16,7 +16,13 @@ The following are the models that can be gotten from huggingface:
 * Mistral-7B-Instruct from huggingface [mistral here](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)
 * LLM360/Amber: this model uses LLAMA architecture. Ream more about it [here](https://huggingface.co/LLM360/Amber)
 
-### List of LLMs and their performance**
+# LLMs PERFORMANCE LEADERBOARD**
 * On huggingface, they can be found here: [leaderboards](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
 * We can as well google them.
 * Utilise chatGPT as well.
+
+# RUNNING LLM MODELS ON CPU
+Ollama is an AI-powered platform designed to facilitate the development, deployment, and management of machine learning models and data-driven applications. It offers a range of features and tools to support data scientists, machine learning engineers, and businesses in leveraging AI technology effectively. 
+* Set it up: [Ollama Github](https://github.com/ollama/ollama)
+* we can run the ollama application on command prompt or on docker.
+
